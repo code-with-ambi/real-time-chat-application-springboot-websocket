@@ -12,7 +12,7 @@ A real-time chat application built using Spring Boot and WebSocket that allows m
 
 ## Project Structure
 
-'''bash
+```bash
 app/
 ├── src/
 │   ├── main/
@@ -43,7 +43,7 @@ app/
 ├── mvnw.cmd
 ├── HELP.md
 └── .gitattributes
-'''
+```
 
 
 ## How to Run
